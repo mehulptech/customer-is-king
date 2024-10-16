@@ -1,1 +1,1 @@
-# customer-is-king
+# customer-profiling
