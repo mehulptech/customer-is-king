@@ -1,1 +1,1 @@
-# customerisking
+# customer-is-king
